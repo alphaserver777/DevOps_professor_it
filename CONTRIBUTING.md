@@ -1,6 +1,16 @@
 # Нашёл ошибку или хочешь предложить улучшение? Напиши в Issues
+Памятка для учеников [DevOps Professor IT](https://github.com/alphaserver776/DevOps_professor_it).
 
-Памятка для учеников [DevOps Professor IT](https://github.com/alphaserver777/DevOps_professor_it).
+## Схема действий
+
+![Как работать с обращениями](assets/images/issues-algorithm-dark.png)
+
+## Ссылки под рукой
+
+- [Все обращения проекта](https://github.com/alphaserver777/DevOps_professor_it/issues)
+- [Создать обращение](https://github.com/alphaserver777/DevOps_professor_it/issues/new)
+- [Официальная справка GitHub: создание обращения](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue)
+- [Официальная справка GitHub: поиск обращений](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/filtering-and-searching-issues-and-pull-requests)
 
 **Issues — раздел обращений на GitHub.** Одно обращение — отдельная страница с заголовком, описанием и обсуждением. Здесь можно сообщить об ошибке в задании, предложить улучшение или попросить пояснить непонятное место.
 
@@ -162,13 +172,3 @@
 
 Если твой вопрос решён, сообщи об этом. Своё обращение можно закрыть кнопкой **Close issue** — «Закрыть обращение». Обращение об ошибке в материалах или предложение лучше закрывать после пояснения преподавателя о результате. Не закрывай его только потому, что удалось временно обойти проблему.
 
-## Схема действий
-
-![Как работать с обращениями](assets/images/issues-algorithm-dark.png)
-
-## Ссылки под рукой
-
-- [Все обращения проекта](https://github.com/alphaserver777/DevOps_professor_it/issues)
-- [Создать обращение](https://github.com/alphaserver777/DevOps_professor_it/issues/new)
-- [Официальная справка GitHub: создание обращения](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue)
-- [Официальная справка GitHub: поиск обращений](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/filtering-and-searching-issues-and-pull-requests)
