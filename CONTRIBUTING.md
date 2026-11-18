@@ -1,5 +1,5 @@
 # Нашёл ошибку или хочешь предложить улучшение? Напиши в Issues
-Памятка для учеников [DevOps Professor IT](https://github.com/alphaserver776/DevOps_professor_it).
+Памятка для учеников [DevOps Professor IT](https://github.com/alphaserver777/DevOps_professor_it).
 
 ## Схема действий
 
